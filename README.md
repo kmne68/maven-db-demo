@@ -1,2 +1,2 @@
-# firstswingproject
-Following a Swing tutorial.
+# maven-demo
+A java-maven demo project
